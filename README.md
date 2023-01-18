@@ -1,3 +1,3 @@
 # landing
 
-[Перейти на landing](shamilist.github.io)
+[Перейти на landing](https://shamilist.github.io/)
